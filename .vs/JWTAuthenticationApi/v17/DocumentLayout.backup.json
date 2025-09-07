@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Projects\\LibraryManagementSystem\\JWTAuthenticationApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F7FAD840-226A-4094-B1AD-88CCB7B2830A}|JWTAuthenticationApi\\JWTAuthenticationApi.csproj|d:\\projects\\librarymanagementsystem\\jwtauthenticationapi\\jwtauthenticationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7FAD840-226A-4094-B1AD-88CCB7B2830A}|JWTAuthenticationApi\\JWTAuthenticationApi.csproj|solutionrelative:jwtauthenticationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7FAD840-226A-4094-B1AD-88CCB7B2830A}|JWTAuthenticationApi\\JWTAuthenticationApi.csproj|d:\\projects\\librarymanagementsystem\\jwtauthenticationapi\\jwtauthenticationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7FAD840-226A-4094-B1AD-88CCB7B2830A}|JWTAuthenticationApi\\JWTAuthenticationApi.csproj|solutionrelative:jwtauthenticationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAD840-226A-4094-B1AD-88CCB7B2830A}|JWTAuthenticationApi\\JWTAuthenticationApi.csproj|d:\\projects\\librarymanagementsystem\\jwtauthenticationapi\\jwtauthenticationapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FAD840-226A-4094-B1AD-88CCB7B2830A}|JWTAuthenticationApi\\JWTAuthenticationApi.csproj|solutionrelative:jwtauthenticationapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAD840-226A-4094-B1AD-88CCB7B2830A}|JWTAuthenticationApi\\JWTAuthenticationApi.csproj|d:\\projects\\librarymanagementsystem\\jwtauthenticationapi\\jwtauthenticationapi\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FAD840-226A-4094-B1AD-88CCB7B2830A}|JWTAuthenticationApi\\JWTAuthenticationApi.csproj|solutionrelative:jwtauthenticationapi\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAD840-226A-4094-B1AD-88CCB7B2830A}|JWTAuthenticationApi\\JWTAuthenticationApi.csproj|d:\\projects\\librarymanagementsystem\\jwtauthenticationapi\\jwtauthenticationapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FAD840-226A-4094-B1AD-88CCB7B2830A}|JWTAuthenticationApi\\JWTAuthenticationApi.csproj|solutionrelative:jwtauthenticationapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\LibraryManagementSystem\\JWTAuthenticationApi\\JWTAuthenticationApi\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTAuthenticationApi\\appsettings.json",
+              "ToolTip": "D:\\Projects\\LibraryManagementSystem\\JWTAuthenticationApi\\JWTAuthenticationApi\\appsettings.json",
+              "RelativeToolTip": "JWTAuthenticationApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-07T18:00:56.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Projects\\LibraryManagementSystem\\JWTAuthenticationApi\\JWTAuthenticationApi\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "JWTAuthenticationApi\\Data\\ApplicationUser.cs",
+              "ToolTip": "D:\\Projects\\LibraryManagementSystem\\JWTAuthenticationApi\\JWTAuthenticationApi\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "JWTAuthenticationApi\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T17:55:48.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\LibraryManagementSystem\\JWTAuthenticationApi\\JWTAuthenticationApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JWTAuthenticationApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\LibraryManagementSystem\\JWTAuthenticationApi\\JWTAuthenticationApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JWTAuthenticationApi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T17:54:47.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Projects\\LibraryManagementSystem\\JWTAuthenticationApi\\JWTAuthenticationApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "JWTAuthenticationApi\\WeatherForecast.cs",
+              "ToolTip": "D:\\Projects\\LibraryManagementSystem\\JWTAuthenticationApi\\JWTAuthenticationApi\\WeatherForecast.cs",
+              "RelativeToolTip": "JWTAuthenticationApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T17:16:33.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\LibraryManagementSystem\\JWTAuthenticationApi\\JWTAuthenticationApi\\Program.cs",
               "RelativeDocumentMoniker": "JWTAuthenticationApi\\Program.cs",
               "ToolTip": "D:\\Projects\\LibraryManagementSystem\\JWTAuthenticationApi\\JWTAuthenticationApi\\Program.cs",
               "RelativeToolTip": "JWTAuthenticationApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-07T16:31:10.959Z",
               "EditorCaption": ""
